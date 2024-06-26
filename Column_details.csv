@@ -1,0 +1,10 @@
+Field,Description
+Datetime,The date and time of the recording
+Temperature,The Temperature in Celsius
+Humidity,The concentration of water vapor in the air
+WindSpeed,The speed of the wind in kilometers per hour
+GeneralDiffuseFlows,The measurement of how much emissions gases diffuse into the broader atmosphere
+DiffuseFlows,The measurement of how much emissions gases diffuse into the local atmosphere
+PowerConsumption_Zone1,The power consumption in Kilowatt-Hours in Power Zone 1
+PowerConsumption_Zone2,The power consumption in Kilowatt-Hours in Power Zone 2
+PowerConsumption_Zone3,The power consumption in Kilowatt-Hours in Power Zone 3
